@@ -1,5 +1,5 @@
 
-	var calendrier = new Array('Janvier', 'Fevrier', 'Mars', 'Avril', 'Mai', 'Juin', 
+	var calendrier = new Array('Janvier', 'Fevrier', 'Mars', 'Avril', ['citron'], 'Mai', 'Juin', 
 		'Juillet', 'Août', 'Septembre', 'Octobre', 'Novembre', 'Decembre', 'courgette');
 
 console.log(calendrier);
